@@ -1,0 +1,7 @@
+README.md
+setup.py
+datda.egg-info/PKG-INFO
+datda.egg-info/SOURCES.txt
+datda.egg-info/dependency_links.txt
+datda.egg-info/requires.txt
+datda.egg-info/top_level.txt

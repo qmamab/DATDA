@@ -1,0 +1,18 @@
+# DATDA/__init__.py
+# ==============================================================================
+# DATDA — Defense Against The Dark Arts
+# Copyright (c) 2025 Qamar Muneer Akbar
+# ORCID: 0009-0003-6671-9253 | qamar@ftiuae.com | www.ftiuae.com
+# Academic Use Only — Non-commercial research with attribution.
+# ==============================================================================
+
+# Expose main classes for convenient imports
+from .datda_defense import DATDA
+from .sdatda_defense import SDATDA
+from .datda_index import DATDAIndex
+
+# Optional: provide version
+__version__ = "1.0.0"
+
+# Optional: define what will be exported when doing `from DATDA import *`
+__all__ = ["DATDA", "SDATDA", "DATDAIndex"]

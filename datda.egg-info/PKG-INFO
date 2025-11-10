@@ -1,3 +1,33 @@
+Metadata-Version: 2.4
+Name: datda
+Version: 0.1.0
+Summary: DATDA — Defense Against The Dark Arts: Inference-time image purifier and robust CNN defense pipeline
+Home-page: https://github.com/qmamab/DATDA
+Author: Qamar Muneer Akbar
+Author-email: qamar@ftiuae.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: torch>=2.0.0
+Requires-Dist: torchvision>=0.17.0
+Requires-Dist: transformers>=4.30.0
+Requires-Dist: numpy>=1.24.0
+Requires-Dist: Pillow>=9.5.0
+Requires-Dist: gradio>=3.50.0
+Requires-Dist: scipy>=1.11.0
+Requires-Dist: timm>=0.9.0
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
+
 # DATDA — Hybrid Defense & Image Classification Model
 
 ## Overview
