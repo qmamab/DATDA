@@ -25,11 +25,7 @@ DATDA (Dynamic Adversarial Training & Defense Architecture) is a cutting-edge hy
 
 Clone the repository and install as a Python package.
 
-```bash
-git clone https://github.com/yourusername/DATDA.git
-cd DATDA
-pip install .
-```
+
 Install using PIP 
 
 
